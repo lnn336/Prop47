@@ -1,0 +1,2 @@
+127.0.0.1 - - [30/Jan/2018:16:33:30 +0000] "GET /2018/01/30/hello-world/ HTTP/1.1" 200 18835 "http://prop47.local/2018/01/30/hello-world/" "WordPress/4.8.1; http://prop47.local"
+127.0.0.1 - - [30/Jan/2018:16:33:31 +0000] "POST /wp-cron.php?doing_wp_cron=1517330010.8233890533447265625000 HTTP/1.1" 499 0 "http://prop47.local/wp-cron.php?doing_wp_cron=1517330010.8233890533447265625000" "WordPress/4.8.1; http://prop47.local"
